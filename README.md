@@ -1,6 +1,6 @@
-# 🎓 AlumniConnect – Frontend
+# 🎓 AlumNet – Frontend
 
-AlumniConnect is a simple **College Alumni Management System** designed to strengthen engagement between **students, alumni, and administrators**.  
+AlumNet is a simple **College Alumni Management System** designed to strengthen engagement between **students, alumni, and administrators**.  
 It provides a platform where alumni can **share guidance, job opportunities, and posts**, students can **interact and comment**, and admins can **verify and manage alumni**.  
 
 This repository contains the **React.js frontend** of the project.
