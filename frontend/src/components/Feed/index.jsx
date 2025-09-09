@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css';
 
 function Feed() {
     // Example feed data; replace with actual data from backend or context
@@ -163,3 +164,5 @@ function Feed() {
 }
 
 export default Feed;
+
+

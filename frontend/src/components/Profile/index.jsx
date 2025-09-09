@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css';
 
 function Profile() {
     // Example user data; replace with actual data from your backend or context

@@ -1,3 +1,5 @@
+import './styles.css';
+
 function NoMatch() {
     return (
         <div>4O4 Not Found </div>
@@ -5,3 +7,5 @@ function NoMatch() {
 }
 
 export default NoMatch
+
+

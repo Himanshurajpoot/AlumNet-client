@@ -1,4 +1,5 @@
 import { NavLink, Link } from 'react-router-dom'
+import './styles.css'
 
 function Home() {
     return (
@@ -109,3 +110,5 @@ function Home() {
 
 
 export default Home;
+
+
