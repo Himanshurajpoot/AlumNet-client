@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import './styles.css';
 
 function Login() {
     const [state, setState] = useState({
@@ -56,3 +57,5 @@ function Login() {
 }
 
 export default Login;
+
+

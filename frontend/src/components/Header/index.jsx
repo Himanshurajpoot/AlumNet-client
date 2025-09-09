@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import './styles.css';
 
 function Header(){
     return (
@@ -34,3 +35,5 @@ function Header(){
 }
 
 export default Header;
+
+

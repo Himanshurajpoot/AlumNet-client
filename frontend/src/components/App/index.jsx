@@ -1,11 +1,12 @@
-import Home from "./Home";
-import Register from "./Register";
-import Login from "./Login";
-import Profile from "./Profile";
+import Home from "../Home";
+import Register from "../Register";
+import Login from "../Login";
+import Profile from "../Profile";
 import { Route, Routes } from 'react-router-dom'
-import NoMatch from "./Nomatch";
-import Feed from "./Feed";
-import Headers from "./Header";
+import NoMatch from "../Nomatch";
+import Feed from "../Feed";
+import Headers from "../Header";
+import './styles.css';
 
 function App() {
   return (
@@ -24,3 +25,5 @@ function App() {
 }
 
 export default App;
+
+

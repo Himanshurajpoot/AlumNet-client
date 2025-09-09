@@ -1,6 +1,7 @@
 import { useState } from 'react';
-import { registerUser } from '../utils/constant';
+import { registerUser } from '../../utils/constant';
 import { useNavigate } from 'react-router-dom';
+import './styles.css';
 
 function Register() {
     const [state, setState] = useState({
@@ -102,7 +103,7 @@ function Register() {
                 type="submit"
                 className="bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition"
             >
-
+                
                 Register
             </button>
         </form>
@@ -112,3 +113,5 @@ function Register() {
 
 
 export default Register;
+
+
